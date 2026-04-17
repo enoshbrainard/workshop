@@ -9,6 +9,7 @@ Full-stack team management system with JWT auth, role-based access control, Mong
 - Backend: Node.js, Express, Mongoose
 - Database: MongoDB
 - Auth: JWT + bcrypt
+- deploy-AWS serverless lambda,s3(frontend)
 
 ## Project Structure
 
