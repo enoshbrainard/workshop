@@ -1,5 +1,5 @@
 # Team Management Web Application
-live link :http://enosh-team-management-demo-2026.s3-website-us-east-1.amazonaws.com/login
+live link :http://enosh-team-management-demo-2026.s3-website-us-east-1.amazonaws.com
 
 Full-stack team management system with JWT auth, role-based access control, MongoDB analytics, and a responsive React + Material UI frontend.
 
